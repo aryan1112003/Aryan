@@ -1,0 +1,27 @@
+/* Header styles */
+header {
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+.title {
+    font-size: 22px;
+    margin: 8px 0 20px;
+    color: #34495e;
+}
+
+.contact-info {
+    margin: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.contact-info p {
+    margin: 0;
+    padding: 5px 15px;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    font-size: 15px;
+}

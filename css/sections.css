@@ -1,0 +1,47 @@
+/* Section styles */
+section {
+    margin-bottom: 30px;
+}
+
+/* Skills section */
+.skills-list {
+    columns: 2;
+    list-style-type: none;
+    padding-left: 0;
+    gap: 20px;
+}
+
+.skills-list li {
+    margin-bottom: 10px;
+    padding: 8px;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+}
+
+/* Experience section */
+.experience {
+    margin-top: 20px;
+}
+
+.company {
+    font-weight: bold;
+    color: #2c3e50;
+    margin: 5px 0;
+}
+
+.institution {
+    font-weight: bold;
+    color: #2c3e50;
+    margin: 5px 0;
+}
+
+/* Lists */
+ul {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
